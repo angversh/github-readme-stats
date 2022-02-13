@@ -355,6 +355,14 @@ const themes = {
     bg_color: "09131B",
     border_color: "0c1a25",
   },
+    angversh: {
+    title_color: "ffffff",
+    icon_color: "f179a5",
+    text_color: "ffffff",
+    bg_color: "0d1117",
+    border_color: "b3e4f6",
+  }, 
+  <!-- hope u will accept the theme ^_^ -->
 };
 
 module.exports = themes;
